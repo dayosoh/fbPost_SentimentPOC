@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FBPost Sentiment Analysis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>FBPost Sentiment Analysis</h1>
+    <textarea id="postInput" placeholder="Write a paragraph..."></textarea>
+    <textarea id="promptInput" placeholder="Adjust prompt instruction..."></textarea>
+    <button onclick="ingestPost()">Ingest</button>
+    <table id="postsTable">
+        <thead>
+            <tr>
+                <th>Post</th>
+                <th>Sentiment</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+    <script src="app.js"></script>
+</body>
+</html>

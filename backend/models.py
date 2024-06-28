@@ -1,9 +1,9 @@
-from .database import get_db_connection
+from backend.database import get_db_connection
 
-def add_post(post_text, sentiment):
+def add_post(post_text, cGPTresponse, sentiment):
     conn = get_db_connection()
     c = conn.cursor()
-    c.execute('INSERT INTO POSTS (post_text, sentiment) VALUES (?, ?)', (post_text, sentiment))
+    c.execute('INSERT INTO posts (post_text, cGPTresponse, sentiment) VALUES (?, ?, ?)', (post_text, cGPTresponse, sentiment))
     conn.commit()
     conn.close()
 

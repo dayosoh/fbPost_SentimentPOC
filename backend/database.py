@@ -8,7 +8,8 @@ def init_db():
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
             post_text TEXT NOT NULL,
-            sentiment TEXT
+            cGPTresponse TEXT,  
+            sentiment TEXT  
         )
     ''')
     conn.commit()

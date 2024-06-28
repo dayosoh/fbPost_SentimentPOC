@@ -1,0 +1,137 @@
+<---------Prompt--------> 
+For the given post, check the following:
+1. is this post related to insurance
+2. if the author trying to provide a perspective of benefit of insurance
+3. did the author provide any statistic on the benefit
+4. is there any exagerrated word choice used.
+
+balance from the above, give a sentiment analysis based on the 5 level sentiment, Very Positive, Positive, Neutral, Negative, Very Negative
+<-----------1----------->
+Introducing the affordable insurance option that won't break the bank! 
+Imagine paying less than your daily coffee for top-notch coverage. With our service, you can protect yourself and your loved ones without going over budget. Say goodbye to exorbitant premiums and hello to a more accessible form of protection. Don’t wait any longer – start saving today with us.
+
+<----------------2----------->
+🔍 **Looking for an Insurance Agent?** 🔍
+Hey everyone! If you or anyone you know is in need of an insurance agent, I’m here to help. Whether it’s for your home, car, health, or business, having the right insurance coverage is crucial for peace of mind and financial security.
+With my expertise and personalized service, I can guide you through the process and ensure you get the best coverage tailored to your needs. Don’t wait until it’s too late—reach out to me today and let’s discuss how I can assist you in protecting what matters most.
+📞 Contact me today for more information and to schedule a consultation. Let’s make sure you’re covered and prepared for whatever life throws your way!
+#InsuranceAgent #GetCovered #ContactMe #InsuranceAdvice #HereToHelp #PeaceOfMind #FinancialSecurity
+<-----------3----->
+Before the marriage, I forced my husband to buy a medical card and even had a fight about it. My husband felt that it was not necessary.
+But I never expected that I would spend 500,000 in medical expenses.
+<-------------4------------->
+Remember, buying insurance is not for favors, but for yourself and your family. The insurance money is not for me, not for the insurance company, but for yourself. 👍🏻
+Inquiries are free, please click to learn ❤️
+✔️ http://jadechan.wasap.my
+🫶 016 9313178 
+#greateastern #medical #claim #unlimited #babyinsurance #life #criticalillness #savings
+<------------------5-------------->
+[Is it necessary to buy a medical card]
+Some people think government hospitals are good
+Some people think that private hospitals are better
+I think government/private are both good
+But if you have a medical card in hand
+It means giving one more choice in life
+So I think medical card is necessary
+Let’s use my husband’s case as a case study
+We sent him to the local government hospital
+Because there are only government hospitals there
+My husband suffered severe trauma and multiple fractures.
+The orthopedics department over there won't do this surgery.
+at first they said
+I might send my husband to Kuantan Hospital
+Later, he said that he would send a doctor over.
+It turned out that I met the Malay New Year
+It will take two weeks before surgery can be done
+How can you wait two weeks for such a serious injury?
+I said I want to transfer to a private hospital
+The doctor also asked me if I have a medical card
+Please transfer immediately
+Otherwise, my husband may be disabled for life
+I'm not sure I can ask for it.
+They immediately transferred to the government hospital
+I'm not sure about going to a big hospital either.
+Will they start treatment right away?
+I don’t dare to blog and I can’t blog
+Because he was in too much pain at the time
+Our medical card is
+I forced him to buy it before we got married.
+We even had a quarrel at that time
+Because my husband doesn’t think it’s necessary
+Why do you have to spend this money every month?
+I said this is for you and me to protect our family.
+He also said that if you don’t buy insurance, you won’t get married.
+Haha, it’s funny even thinking about it
+Some people use marriage to force their husbands to buy insurance
+Finally he compromised and I arranged everything
+The premium of his medical card is RM244 per month
+Annual insured amount RM1mil+-
+The ward is guaranteed at RM150/night
+(Never claimed, 10% added every year)
+So now he can stay in a ward with a price below RM240
+Living allowance of RM150 for each day of hospitalization
+This insurance lasts for 6 years once you buy it.
+never used
+RM244*6 years*12 months=RM17,568
+The cost for my husband’s accidental hospital admission was RM503,604.69.
+This does not include subsequent replacement of the stoma.
+and the cost of removing the screws.
+I paid more than 10,000 yuan in insurance premiums but spent 500,000 yuan on it.
+Does everyone have the same idea as
+When I bought it, I thought it was very expensive.
+But when I need it, I seem to buy less.
+[The Importance of Insurance Brokers]
+Each person/family’s burden is different
+Everyone needs to find the right insurance broker
+Discuss and plan your insurance needs together
+What is the right insurance broker?
+The one who is there when you are in need
+Able to give you a definite answer in a timely manner/
+someone who guides you
+Since we have never had this kind of hospitalization experience
+My insurance agent at the time
+I asked him a lot of questions
+There are some things he can't give me a definite answer to.
+Or the answer is a little vague and I'm confused
+I stopped thinking about it after that.
+Because as long as the annual insurance amount is enough to treat my husband
+Cost of other small details
+I'll think of a solution then
+**Because all the money is used to start a business, the economy is really tight.
+Maybe it's God's mercy
+A netizen sent a private message saying that something big happened to her mother too.
+She also stayed in the hospital for a while
+Let me find her whenever I need her
+Then she casually said that she had been working in the insurance industry for ten years
+At that time, I just politely replied to her thank you.
+Until my husband's condition stabilized slightly
+I thought of her and took the initiative to contact her
+She happens to be an insurance broker from AIA
+I was really impressed by her enthusiasm and knowledge afterward.
+So our family’s insurance
+All hands were turned away from her
+That's the insurance broker
+When you really need insurance
+She is the person who can give you "a sense of security"
+Insurance companies each have their own merits
+than the company
+I think insurance brokers are more important
+Just like when my husband was discharged from the hospital
+Because too many doctors are involved
+We can't leave the hospital even if we wait until 4pm.
+Eventually my agent kept calling the front desk
+🧑🏻‍⚕️: The follow-up date and medicine are ready. All that remains is to contact the insurance company. If they want to return first, just put down a RM500 deposit.
+👩🏼: This patient will come back for follow-up consultation on 20/6, so you don’t have to worry about him running away. They live far away and driving late is dangerous. Besides, his medical expenses are RM500k+, so it doesn’t make sense for you to charge RM500, right?
+Last 4:30pm
+The person at the counter comes into the ward
+Sign a letter for me as usual
+No deposit required
+We left immediately
+Summarize:
+Health is very important
+When there is a health problem
+Medical card is very important
+When you have questions about your medical card
+Insurance brokers are important
+
+http://localhost:8000
